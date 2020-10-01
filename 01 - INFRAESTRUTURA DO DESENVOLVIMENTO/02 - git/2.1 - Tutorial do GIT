@@ -96,7 +96,7 @@ TUTORIAL DO GIT
 (✔) 18 - TRABALHO COLABORATIVO COM GIT FLOW
       
       () Prover abstração e organização dos repositorios git
-      () git flow init (iniciarlizar versão)
+      (✔) git flow init (iniciarlizar versão)
       () Existirão as seguintes Branchs:
           - MASTER: Código testado e que funciona em produção
           - DEVELOP: Código espelho do master, mas com código não testado
