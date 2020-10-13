@@ -1,0 +1,24 @@
+{
+    "name": "cce66/xampp",
+    "description": "Curso de Programador WEB",
+    "minimum-stability": "stable",
+    "authors": [
+        {
+            "name": "Cleliani de Cassia da Silva",
+            "email": "clelianinutricao@gmail.com",
+            "homepage": "https://github.com/clelianidecdasilva",
+            "role": "Developer"
+        }
+    ],
+    "config": {
+        "vendor-dir": "vendor"
+    },
+    "autoload": {
+        "psr-4": {
+            "source\\": "source/"
+        }
+    },
+    "require": {
+        "phpmailer/phpmailer": "v6.1.7"
+    }
+}
