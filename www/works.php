@@ -14,7 +14,6 @@
     <!-- Styles -->
     <link rel="stylesheet" type="text/css" href="assets/styles/style.css" />
     <link rel="stylesheet" type="text/css" href="assets/styles/style-dark.css" />
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
 
 </head>
 
@@ -51,11 +50,6 @@
                             <li>
                                 <a href="https://github.com/clelianidecdasilva">
                                     <i class="font-icon icon-github"></i>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="http://lattes.cnpq.br/4906270086011587">
-                                    <i class="ai ai-lattes-square ai-1.8x"></i>
                                 </a>
                             </li>
 
