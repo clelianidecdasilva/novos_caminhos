@@ -3,19 +3,18 @@
 
 <head>
     <meta charset="utf-8" />
-    <title>Iury Gomes de Oliveira</title>
+    <title>Cleliani de Cassia da Silva</title>
 
     <!-- Meta Data -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    <meta name="author" content="Iury Gomes de Oliveira" />
-    <meta name="description" content="Portifólio de trabalhos realizados e formação de Iury Gomes de Oliveira" />
+    <meta name="author" content="Cleliani de Cassia da Silva" />
+    <meta name="description" content="Portifólio de trabalhos realizados e formação de Cleliani de Cassia da Silva" />
     <!-- Styles -->
     <link rel="stylesheet" type="text/css" href="assets/styles/style.css" />
     <link rel="stylesheet" type="text/css" href="assets/styles/style-dark.css" />
-
-
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
 </head>
 
 <body class="bg-triangles">
@@ -36,30 +35,26 @@
             <header class="header box">
                 <div class="header__left">
                     <div class="header__photo">
-                        <img class="header__photo-img" src="assets/img/profile.jpeg" alt="Iury Gomes de Oliveira">
+                        <img class="header__photo-img" src="assets/img/profile_photo.jpg"
+                            alt="Cleliani de Cassia da Silva">
                     </div>
                     <div class="header__base-info">
-                        <h4 class="title titl--h4">Iury Gomes de Oliveira</h4>
-                        <div class="status">Desenvolvedor WEB</div>
+                        <h4 class="title titl--h4">Cleliani de Cassia da Silva</h4>
+                        <div class="status">Nutricionista, Estudante Programadora Web</div>
                         <ul class="header__social">
                             <li>
-                                <a href="https://www.linkedin.com/in/iurygdeoliveira/">
+                                <a href="https://www.linkedin.com/in/cleliani-de-cassia-da-silva-5974bb25/">
                                     <i class="font-icon icon-linkedin"></i>
                                 </a>
                             </li>
                             <li>
-                                <a href="https://github.com/iurygdeoliveira">
+                                <a href="https://github.com/clelianidecdasilva">
                                     <i class="font-icon icon-github"></i>
                                 </a>
                             </li>
                             <li>
-                                <a href="https://www.youtube.com/channel/UCTM1Idirf0ALOdEdq31qkjg?view_as=subscriber">
-                                    <i class="font-icon icon-youtube"></i>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="https://twitter.com/IuryProf">
-                                    <i class="font-icon icon-twitter"></i>
+                                <a href="http://lattes.cnpq.br/4906270086011587">
+                                    <i class="ai ai-lattes-square ai-1.8x"></i>
                                 </a>
                             </li>
 
@@ -72,7 +67,7 @@
                             <span class="overhead">
                                 Email
                             </span>
-                            email.comercial@contato.com.br
+                            clelianinutricao@gmail.com
                         </li>
                         <li>
                             <span class="overhead">Telefone</span><a
@@ -85,7 +80,7 @@
                             <span class="overhead">
                                 Endereço
                             </span>
-                            Endereço Comercial - UF
+                            Campinas - SP
                         </li>
                     </ul>
                 </div>
@@ -124,11 +119,9 @@
                         <!-- Sobre Mim  -->
                         <div class="pb-0 pb-sm-2">
                             <h1 class="title title--h1 first-title title__separate">Sobre Mim</h1>
-                            <p>Como muitos, comecei na programação por curiosidade! Com o tempo, o amor pela programação
-                                foi
-                                crescendo a ponto de se tornar uma profissão e me especializar na área. Hoje, com a
-                                bagagem que
-                                tenho, compartilho meu conhecimento com todos os alunos do Campus Araguaina - IFTO</p>
+                            <p>Sou graduada em Nutrição e Mestre e Doutora em Ciências na área de Saúde da Criança e do
+                                Adolescente. O interesse pela área de programação surgiu durante o doutorado, quando
+                                comecei a trabalhar com análises estatísticas.</p>
 
 
                             <div>
@@ -142,25 +135,15 @@
                                             <!-- Item client -->
                                             <div class="swiper-slide">
                                                 <a href="#">
-                                                    <img src="assets/img/ifto.svg" style="background-color: #FFF;"
-                                                        alt="IFTO Logo" /></a>
+                                                    <img src="assets/img/UNICAMP-Logo.jpg"
+                                                        style="background-color: #FFF;" alt="UNICAMP Logo" /></a>
                                             </div>
 
                                             <!-- Item client -->
                                             <div class="swiper-slide">
-                                                <a href="#"><img src="assets/img/ifto.svg"
-                                                        style="background-color: #FFF;" alt="IFTO Logo" /></a>
-                                            </div>
-                                            <!-- Item client -->
-                                            <div class="swiper-slide">
-                                                <a href="#"><img src="assets/img/ifto.svg"
-                                                        style="background-color: #FFF;" alt="IFTO Logo" /></a>
-                                            </div>
-                                            <!-- Item client -->
-                                            <div class="swiper-slide">
                                                 <a href="#">
-                                                    <img src="assets/img/ifto.svg" style="background-color: #FFF;"
-                                                        alt="IFTO Logo" /></a>
+                                                    <img src="assets/img/Centro-Corsini-logo.jpg"
+                                                        style="background-color: #FFF;" alt="Centro Corsini Logo" /></a>
                                             </div>
 
                                         </div>
@@ -172,7 +155,7 @@
 
                             <!-- Footer -->
                             <footer class="footer">
-                                © Iury Gomes de Oliveira
+                                © Cleliani de Cassia da Silva
                             </footer>
                         </div>
                     </div>

@@ -3,17 +3,18 @@
 
 <head>
     <meta charset="utf-8" />
-    <title>Iury Gomes de Oliveira</title>
+    <title>Cleliani de Cassia da Silva</title>
 
     <!-- Meta Data -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    <meta name="author" content="Iury Gomes de Oliveira" />
-    <meta name="description" content="Portifólio de trabalhos realizados e formação de Iury Gomes de Oliveira" />
+    <meta name="author" content="Cleliani de Cassia da Silva" />
+    <meta name="description" content="Portifólio de trabalhos realizados e formação de Cleliani de Cassia da Silva" />
     <!-- Styles -->
     <link rel="stylesheet" type="text/css" href="assets/styles/style.css" />
     <link rel="stylesheet" type="text/css" href="assets/styles/style-dark.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
 </head>
 
 <body class="bg-triangles">
@@ -34,30 +35,26 @@
             <header class="header box">
                 <div class="header__left">
                     <div class="header__photo">
-                        <img class="header__photo-img" src="assets/img/profile.jpeg" alt="Iury Gomes de Oliveira">
+                        <img class="header__photo-img" src="assets/img/profile_photo.jpg"
+                            alt="Cleliani de Cassia da Silva">
                     </div>
                     <div class="header__base-info">
-                        <h4 class="title titl--h4">Iury Gomes de Oliveira</h4>
-                        <div class="status">Desenvolvedor WEB</div>
+                        <h4 class="title titl--h4">Cleliani de Cassia da Silva</h4>
+                        <div class="status">Nutricionista, Estudante Programadora WEB</div>
                         <ul class="header__social">
                             <li>
-                                <a href="https://www.linkedin.com/in/iurygdeoliveira/">
+                                <a href="https://www.linkedin.com/in/cleliani-de-cassia-da-silva-5974bb25/">
                                     <i class="font-icon icon-linkedin"></i>
                                 </a>
                             </li>
                             <li>
-                                <a href="https://github.com/iurygdeoliveira">
+                                <a href="https://github.com/clelianidecdasilva">
                                     <i class="font-icon icon-github"></i>
                                 </a>
                             </li>
                             <li>
-                                <a href="https://www.youtube.com/channel/UCTM1Idirf0ALOdEdq31qkjg?view_as=subscriber">
-                                    <i class="font-icon icon-youtube"></i>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="https://twitter.com/IuryProf">
-                                    <i class="font-icon icon-twitter"></i>
+                                <a href="http://lattes.cnpq.br/4906270086011587">
+                                    <i class="ai ai-lattes-square ai-1.8x"></i>
                                 </a>
                             </li>
 
@@ -70,7 +67,7 @@
                             <span class="overhead">
                                 Email
                             </span>
-                            email.comercial@contato.com.br
+                            clelianinutricao@gmail.com
                         </li>
                         <li>
                             <span class="overhead">Telefone</span><a
@@ -83,7 +80,7 @@
                             <span class="overhead">
                                 Endereço
                             </span>
-                            Endereço Comercial - UF
+                            Campinas - SP
                         </li>
                     </ul>
                 </div>
@@ -118,50 +115,107 @@
                                 <div class="timeline">
                                     <!-- Item -->
                                     <article class="timeline__item">
-                                        <h5 class="title title--h5 timeline__title">MBA em Gestão de Tecnologia da
-                                            Informação</h5>
-                                        <span class="timeline__period">2013 — 2014</span>
+                                        <h5 class="title title--h5 timeline__title">Doutorado em Ciências na área de
+                                            Saúde da Criança e do Adolescente</h5>
+                                        <span class="timeline__period">2013 — 2017 </span>
                                         <p class="timeline__description">
-                                            Centro Universitário Newton Paiva</p>
+                                            UNICAMP - Universidade Estadual de Campinas. Bolsista da FAPESP</p>
                                     </article>
 
                                     <!-- Item -->
                                     <article class="timeline__item">
-                                        <h5 class="title title--h5 timeline__title">Bacharelado em Ciência da Computação
+                                        <h5 class="title title--h5 timeline__title">Mestrado em Ciências na área de
+                                            Saúde da Criança e do Adolescente
                                         </h5>
-                                        <span class="timeline__period">2005 — 2009</span>
-                                        <p class="timeline__description">Universidade Católica de Goiás</p>
+                                        <span class="timeline__period">2011 — 2013</span>
+                                        <p class="timeline__description">UNICAMP - Universidade Estadual de Campinas.
+                                            Bolsista da CAPES
+                                        </p>
                                     </article>
 
                                     <!-- Item -->
                                     <article class="timeline__item">
                                         <h5 class="title title--h5 timeline__title">
-                                            Bootcamp Full Stack Developer
+                                            Graduação em Nutrição
                                         </h5>
-                                        <span class="timeline__period">2020 — 2020</span>
-                                        <p class="timeline__description">IGTI - Instituto de Gestão e Tecnologia da
-                                            Informação.</p>
+                                        <span class="timeline__period">2002 — 2006</span>
+                                        <p class="timeline__description">UNIP - Universidade Paulista
+                                        </p>
                                     </article>
+
+                                    <!-- Item -->
+                                    <article class="timeline__item">
+                                        <h5 class="title title--h5 timeline__title">
+                                            Ensino Profissional de nível técnico em Técnico em Alimentos
+                                        </h5>
+                                        <span class="timeline__period">1997 — 2001</span>
+                                        <p class="timeline__description">Escola Estadual Professor Arlindo Pereira
+                                            Centro de Educação Politécnica
+                                        </p>
+                                    </article>
+
+                                    <!-- Item -->
+                                    <article class="timeline__item">
+                                        <h5 class="title title--h5 timeline__title">
+                                            Ensino Médio (2º grau)
+                                        </h5>
+                                        <span class="timeline__period">1994 — 1996</span>
+                                        <p class="timeline__description">Escola Estadual PSG Deputado Eduardo Vicente
+                                            Nasser
+                                        </p>
+                                    </article>
+
+
                                     <!-- Item -->
                                     <article class="timeline__item">
                                         <h5 class="title title--h5 timeline__title">Cursos Extracurriculares</h5>
-                                        <span class="timeline__period">ano — ano</span>
-                                        <p class="timeline__description">Empresa</p>
+                                        <span class="timeline__period">2020 — Atual </span>
+                                        <p class="timeline__description">Programa Novos Caminhos (SETEC/MEC) do
+                                            Instituto Federal do Tocantins (IFTO), Campus Araguaína
+                                        </p>
                                         <ul>
-                                            <li>Curso 1</li>
-                                            <li>Curso 2</li>
-                                            <li>Curso 3</li>
+                                            <li>Curso Programador Web</li>
                                         </ul>
                                     </article>
                                     <article class="timeline__item">
 
-                                        <span class="timeline__period">ano — ano</span>
-                                        <p class="timeline__description">Empresa 2</p>
+                                        <span class="timeline__period">2020 — Atual</span>
+                                        <p class="timeline__description">UFSCar - Universidade Federal de São Carlos</p>
                                         <ul>
-                                            <li>Curso 2</li>
-                                            <li>Curso 2</li>
-                                            <li>Curso 2</li>
-                                            <li>Curso 2</li>
+                                            <li>Curso de extensão "Análise e visualização de dados do Coronavírus no R"
+                                            </li>
+                                        </ul>
+                                    </article>
+
+                                    <article class="timeline__item">
+
+                                        <span class="timeline__period">2020 — 2020</span>
+                                        <p class="timeline__description">Digital Innovation One</p>
+                                        <ul>
+                                            <li>Curso Lógica de programação essencial</li>
+                                            <li>Introdução ao Git e Controle de Versões</li>
+                                            <li>Introdução ao GitHub e comandos para trabalhar em equipe</li>
+                                        </ul>
+                                    </article>
+
+                                    <article class="timeline__item">
+
+                                        <span class="timeline__period">2020 — 2020 </span>
+                                        <p class="timeline__description">Programa Novos Caminhos (SETEC/MEC) do
+                                            Instituto Federal de Brasília (IFB), Campus Planaltina
+                                        </p>
+                                        <ul>
+                                            <li>Curso Estatística Descritiva</li>
+                                        </ul>
+                                    </article>
+
+                                    <article class="timeline__item">
+
+                                        <span class="timeline__period">2016 — 2016 </span>
+                                        <p class="timeline__description">DMSS - Data Mining and Statistical Solutions
+                                        </p>
+                                        <ul>
+                                            <li>Técnicas de Regressão com IBM SPSS Statistics</li>
                                         </ul>
                                     </article>
 
@@ -174,22 +228,19 @@
                                 <div class="timeline">
                                     <!-- Item -->
                                     <article class="timeline__item">
-                                        <h5 class="title title--h5 timeline__title">Certificação 1</h5>
-                                        <span class="timeline__period">Ano</span>
-                                        <p class="timeline__description">Empresa</p>
+                                        <h5 class="title title--h5 timeline__title">Doutora em Ciências na área de Saúde
+                                            da Criança e do Adolescente </h5>
+                                        <span class="timeline__period">2017</span>
+                                        <p class="timeline__description">UNICAMP - Universidade Estadual de Campinas</p>
                                     </article>
                                     <!-- Item -->
                                     <article class="timeline__item">
-                                        <h5 class="title title--h5 timeline__title">Certificação 1</h5>
-                                        <span class="timeline__period">Ano</span>
-                                        <p class="timeline__description">Empresa</p>
+                                        <h5 class="title title--h5 timeline__title">Mestra em Ciências na área de Saúde
+                                            da Criança e do Adolescente </h5>
+                                        <span class="timeline__period">2013</span>
+                                        <p class="timeline__description">UNICAMP - Universidade Estadual de Campinas</p>
                                     </article>
-                                    <!-- Item -->
-                                    <article class="timeline__item">
-                                        <h5 class="title title--h5 timeline__title">Certificação 1</h5>
-                                        <span class="timeline__period">Ano</span>
-                                        <p class="timeline__description">Empresa</p>
-                                    </article>
+
 
                                 </div>
                             </div>
@@ -202,32 +253,25 @@
                                 <div class="timeline">
                                     <!-- Item -->
                                     <article class="timeline__item">
-                                        <h5 class="title title--h5 timeline__title">Cargo 1</h5>
-                                        <span class="timeline__period">Ano Inicial — Presente</span>
+                                        <h5 class="title title--h5 timeline__title">Nutricionista na área de alimentação
+                                            coletiva na Unidade de Apoio Infantil - UAI</h5>
+                                        <span class="timeline__period">2007 — 2011</span>
                                         <p class="timeline__description">Dentre as principais responsabilidades,
-                                            destacam ....</p>
+                                            destacam avaliação nutricional; elaboração de cardápios; treinamento para
+                                            manipuladores de alimentos; elaboração de manual de receitas; elaboração de
+                                            manual de boas práticas </p>
                                     </article>
                                     <!-- Item -->
                                     <article class="timeline__item">
-                                        <h5 class="title title--h5 timeline__title">Cargo 1</h5>
-                                        <span class="timeline__period">Ano Inicial — Presente</span>
+                                        <h5 class="title title--h5 timeline__title">Nutricionista clínica – ambulatório,
+                                            no Centro de Controle e Investigação Imunológica Dr. Antônio Carlos Corsini
+                                            – Centro CORSINI</h5>
+                                        <span class="timeline__period">2007 — 2011</span>
                                         <p class="timeline__description">Dentre as principais responsabilidades,
-                                            destacam ....</p>
+                                            destacam atendimento ambulatorial; palestras; oficina de culinária</p>
                                     </article>
-                                    <!-- Item -->
-                                    <article class="timeline__item">
-                                        <h5 class="title title--h5 timeline__title">Cargo 1</h5>
-                                        <span class="timeline__period">Ano Inicial — Presente</span>
-                                        <p class="timeline__description">Dentre as principais responsabilidades,
-                                            destacam ....</p>
-                                    </article>
-                                    <!-- Item -->
-                                    <article class="timeline__item">
-                                        <h5 class="title title--h5 timeline__title">Cargo 1</h5>
-                                        <span class="timeline__period">Ano Inicial — Presente</span>
-                                        <p class="timeline__description">Dentre as principais responsabilidades,
-                                            destacam ....</p>
-                                    </article>
+
+
 
                                 </div>
                             </div>
@@ -240,57 +284,57 @@
                                 <div class="box box__border">
                                     <!-- Progress -->
                                     <div class="progress">
-                                        <div class="progress-bar" role="progressbar" aria-valuenow="50"
+                                        <div class="progress-bar" role="progressbar" aria-valuenow="20"
                                             aria-valuemin="0" aria-valuemax="100">
-                                            <div class="progress-text"><span>PHP</span><span>50%</span></div>
+                                            <div class="progress-text"><span>PHP</span><span>20%</span></div>
                                         </div>
                                         <div class="progress-text"><span>PHP</span></div>
                                     </div>
                                     <div class="progress">
-                                        <div class="progress-bar" role="progressbar" aria-valuenow="60"
+                                        <div class="progress-bar" role="progressbar" aria-valuenow="15"
                                             aria-valuemin="0" aria-valuemax="100">
-                                            <div class="progress-text"><span>WordPress</span><span>60%</span></div>
+                                            <div class="progress-text"><span>WordPress</span><span>15%</span></div>
                                         </div>
                                         <div class="progress-text"><span>WordPress</span></div>
                                     </div>
 
                                     <!-- Progress -->
                                     <div class="progress">
-                                        <div class="progress-bar" role="progressbar" aria-valuenow="40"
+                                        <div class="progress-bar" role="progressbar" aria-valuenow="15"
                                             aria-valuemin="0" aria-valuemax="100">
-                                            <div class="progress-text"><span>JavaScript</span><span>40%</span></div>
+                                            <div class="progress-text"><span>JavaScript</span><span>15%</span></div>
                                         </div>
                                         <div class="progress-text"><span>JavaScript</span></div>
                                     </div>
                                     <div class="progress">
-                                        <div class="progress-bar" role="progressbar" aria-valuenow="40"
+                                        <div class="progress-bar" role="progressbar" aria-valuenow="12"
                                             aria-valuemin="0" aria-valuemax="100">
-                                            <div class="progress-text"><span>Node.js</span><span>30%</span></div>
+                                            <div class="progress-text"><span>Node.js</span><span>12%</span></div>
                                         </div>
                                         <div class="progress-text"><span>Node.js</span></div>
                                     </div>
                                     <div class="progress">
-                                        <div class="progress-bar" role="progressbar" aria-valuenow="40"
+                                        <div class="progress-bar" role="progressbar" aria-valuenow="15"
                                             aria-valuemin="0" aria-valuemax="100">
-                                            <div class="progress-text"><span>JavaScript</span><span>40%</span></div>
+                                            <div class="progress-text"><span>JavaScript</span><span>15%</span></div>
                                         </div>
                                         <div class="progress-text"><span>JavaScript</span></div>
                                     </div>
 
                                     <!-- Progress -->
                                     <div class="progress">
-                                        <div class="progress-bar" role="progressbar" aria-valuenow="50"
+                                        <div class="progress-bar" role="progressbar" aria-valuenow="10"
                                             aria-valuemin="0" aria-valuemax="100">
-                                            <div class="progress-text"><span>CSS</span><span>50%</span></div>
+                                            <div class="progress-text"><span>CSS</span><span>10%</span></div>
                                         </div>
                                         <div class="progress-text"><span>CSS</span></div>
                                     </div>
 
                                     <!-- Progress -->
                                     <div class="progress">
-                                        <div class="progress-bar" role="progressbar" aria-valuenow="70"
+                                        <div class="progress-bar" role="progressbar" aria-valuenow="12"
                                             aria-valuemin="0" aria-valuemax="100">
-                                            <div class="progress-text"><span>HTML</span><span>70%</span></div>
+                                            <div class="progress-text"><span>HTML</span><span>12%</span></div>
                                         </div>
                                         <div class="progress-text"><span>HTML</span></div>
                                     </div>
@@ -300,7 +344,7 @@
                     </div>
 
                     <!-- Footer -->
-                    <footer class="footer">© Iury Gomes de Oliveira</footer>
+                    <footer class="footer">© Cleliani de Cassia da Silva</footer>
                 </div>
             </div>
         </div>
